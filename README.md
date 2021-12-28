@@ -52,5 +52,14 @@ export function Home(){
 
 }
 
+## Instação
+
+``` expo install axios 
+``` npm install @react-navigation/native
+``` expo install react-native-screens react-native-safe-area-context
+``` expo install @react-navigation/native
+``` expo install @react-navigation/native-stack 
+
+
 
 
