@@ -2,7 +2,6 @@
 ## Trecho de Codigo para criação de navegação em ReactNative + simples consumo de API
 
 #### Estrutura das pastas
-
 * :file_folder: src
   * :file_folder: pages
     *  Home
@@ -14,7 +13,12 @@
   * :file_folder: components
     * ListaEstados.tsx
   
-#### Descrição
-Pages : São as paginas completas que serão chamadas ao acessar 
+Instação
+=================
 
-  
+```
+``` expo install axios 
+``` npm install @react-navigation/native
+``` expo install react-native-screens react-native-safe-area-context
+``` expo install @react-navigation/native
+``` expo install @react-navigation/native-stack
