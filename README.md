@@ -12,7 +12,7 @@
     * Estado.ts
   * :file_folder: components
     * ListaEstados.tsx
-* :clipboard: App.tsx
+* App.tsx
   
 Instação
 =================
